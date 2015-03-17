@@ -1,0 +1,11 @@
+flickr: 
+    api_key: YOUR_FLICKR_API_KEY
+    api_secret: YOUR_FLICKR_API_SECRET
+    user_id: YOUR_FLICKR_API_USER_ID
+mongo:
+    db: mongo_database 
+    host: localhost 
+    port: 27017
+downloader:
+    folder: /path/where/to/save/photos
+    report_file: /path/were/to/generate/a/report.json
